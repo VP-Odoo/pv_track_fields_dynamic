@@ -1,4 +1,0 @@
-<odoo>
-  <menuitem id="menu_tfd_root" name="Dynamic Tracking" parent="base.menu_administration" sequence="80"/>
-  <menuitem id="menu_tfd_configs" name="Configurations" parent="menu_tfd_root" action="action_track_fields_config" sequence="10"/>
-</odoo>
