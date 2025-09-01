@@ -16,7 +16,6 @@
     ],
     "installable": True,
     "application": False,
-    'price': 20.00,
     'currency': 'EUR',
     "uninstall_hook": "uninstall_hook",
     "description": """
